@@ -250,7 +250,7 @@
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-223" value="用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="100" y="-745" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="uAjmi2IrEM4LTEJ0oicB-224" value="自习室管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uAjmi2IrEM4LTEJ0oicB-224" value="座位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="240" y="-864" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-225" value="座位管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
