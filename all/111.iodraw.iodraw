@@ -34,10 +34,13 @@
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-11" value="任务管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="190" y="530" width="140" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="uAjmi2IrEM4LTEJ0oicB-51" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAjmi2IrEM4LTEJ0oicB-14" target="uAjmi2IrEM4LTEJ0oicB-20">
+        <mxCell id="uAjmi2IrEM4LTEJ0oicB-51" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAjmi2IrEM4LTEJ0oicB-14" target="uAjmi2IrEM4LTEJ0oicB-20">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="uAjmi2IrEM4LTEJ0oicB-52" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAjmi2IrEM4LTEJ0oicB-14" target="uAjmi2IrEM4LTEJ0oicB-16">
+        <mxCell id="uAjmi2IrEM4LTEJ0oicB-52" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAjmi2IrEM4LTEJ0oicB-14" target="uAjmi2IrEM4LTEJ0oicB-16">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="uAjmi2IrEM4LTEJ0oicB-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="uAjmi2IrEM4LTEJ0oicB-14" target="uAjmi2IrEM4LTEJ0oicB-17">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-14" value="用户管理" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
