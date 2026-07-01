@@ -251,19 +251,19 @@
           <mxGeometry x="100" y="-745" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-224" value="预约座位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-864" width="140" height="40" as="geometry" />
+          <mxGeometry x="240" y="-855" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-225" value="我的预约" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-740" width="140" height="40" as="geometry" />
+          <mxGeometry x="240" y="-750" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-226" value="个人中心" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-617" width="140" height="40" as="geometry" />
+          <mxGeometry x="240" y="-644" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-227" value="AI智能推荐" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-500" width="140" height="40" as="geometry" />
+          <mxGeometry x="240" y="-543" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-228" value="自习室浏览" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="240" y="-995" width="140" height="40" as="geometry" />
+          <mxGeometry x="240" y="-965" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-229" value="&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;搜索筛选自习室&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-1056" width="170" height="30" as="geometry" />
