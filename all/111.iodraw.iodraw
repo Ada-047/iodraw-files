@@ -277,7 +277,7 @@
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-232" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-960" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uAjmi2IrEM4LTEJ0oicB-233" value="&lt;b&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;浏览自习室列表&lt;/span&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uAjmi2IrEM4LTEJ0oicB-233" value="&lt;b&gt;&lt;span style=&quot;font-size: 12pt;&quot;&gt;浏览自习室列表&lt;/span&gt;&lt;/b&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-1110" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-234" value="删除自习室" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
