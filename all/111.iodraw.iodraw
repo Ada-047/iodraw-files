@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
-    <mxGraphModel dx="1985" dy="2055" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
+    <mxGraphModel dx="1122" dy="1640" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -23,52 +23,52 @@
           <mxGeometry x="190" y="35" width="140" height="40" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-16" value="搜索用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="14" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="14" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-17" value="设置用户角色" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="62" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="62" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-18" value="编辑自习室" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="159" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="159" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-19" value="删除用户" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="110" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="110" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-20" value="查看用户列表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="-40" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="-40" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-21" value="删除自习室" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="255" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="255" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-22" value="新增座位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="304" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="304" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-23" value="设置维修状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="400" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="400" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-24" value="删除座位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="352" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="352" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-25" value="新增自习室" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="207" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="207" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-26" value="查看全部预约" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="497" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="497" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-27" value="删除预约记录" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="545" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="545" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-28" value="导出预约Excel报表" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="450" y="642" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-29" value="按条件筛选预约" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="594" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="594" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-30" value="清空座位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="449" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="449" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-35" value="手动触发执行任务" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="685" width="170" height="30" as="geometry" />
+          <mxGeometry x="450" y="685" width="170" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
