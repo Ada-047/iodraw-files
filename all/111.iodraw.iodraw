@@ -286,7 +286,7 @@
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-236" value="设置维修状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-670" width="170" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="uAjmi2IrEM4LTEJ0oicB-237" value="删除座位" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="uAjmi2IrEM4LTEJ0oicB-237" value="&lt;font style=&quot;font-size: 12px;&quot;&gt;预约签到和签退&lt;/font&gt;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="530" y="-718" width="170" height="30" as="geometry" />
         </mxCell>
         <mxCell id="uAjmi2IrEM4LTEJ0oicB-239" value="查看全部预约" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
